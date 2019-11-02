@@ -18,7 +18,7 @@ const (
 	user      = "root"
 	loc       = "Asia/Shanghai"
 
-	defaultHost     = "127.0.0.1"
+	defaultHost     = "39.106.120.138"
 	defaultPort     = "3306"
 	defaultDB       = "oj_database"
 	defaultPassword = "maxinz"
